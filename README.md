@@ -2,3 +2,5 @@
 
 <p>Payloads with Icons for Payload Guest by Al Azif - Firmware 9.00</p>
 <p>Paste it under '/data/payloads'</p>
+
+https://github.com/Al-Azif/ps4-payload-guest
