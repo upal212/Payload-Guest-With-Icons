@@ -1,7 +1,9 @@
-# Payloads with Icons for Payload Guest by Al Azif (Version 9.00)
+# Payloads with Icons for Payload Guest by Al Azif (Version 9.00 / 6.72)
 
-<p>Up-to-date Payloads with Icons for Payload Guest by Al Azif - Firmware 9.00</p>
+<p>Up-to-date Payloads with Icons for Payload Guest by Al Azif - Firmware 9.00 / 6.72</p>
 <p>Paste it under '/data/payloads'</p>
+
+Version 6.72: [Click here](https://github.com/upal212/Payload-Guest-With-Icons/tree/672)</p>
 
 Credits <a href="https://github.com/Al-Azif/ps4-payload-guest" target="_blank">Payload Guest by Al Azif</a></br>
 All credits to [Al Azif](https://twitter.com/_AlAzif) and the original creators.
